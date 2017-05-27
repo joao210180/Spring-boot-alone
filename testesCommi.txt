@@ -1,3 +1,5 @@
 opa
 
 mexi no web, para atualizar desktop
+
+mexi no desktop para atualizar no web
