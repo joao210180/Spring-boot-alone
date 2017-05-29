@@ -7,4 +7,6 @@ branche teste
 
 brance ver antes e baixar
 
-sobre para fazer clone
+sobre para fazer merge e bão clone
+
+este 2
